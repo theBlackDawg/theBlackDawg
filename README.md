@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @theBlackDawg
+- 👀 I’m interested in cybersecurity as well as A.I. and game programming.
+- 🌱 I’m currently learning CS50x via Harvard.edu
+- 📫 How to reach me blackdawg0840@gmail.com
